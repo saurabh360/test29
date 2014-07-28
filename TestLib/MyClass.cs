@@ -7,6 +7,7 @@ namespace TestLib
 		public MyClass ()
 		{
 		}
+//This is test
 	}
 }
 
